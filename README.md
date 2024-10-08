@@ -5,8 +5,12 @@ A base cartográfica e os metadados foram produzidas por Marconi Martins Cunha, 
 
 Maiores detalhes do processo de produção consulte o link: http://dx.doi.org/10.3895/rbgeo.v11n1.15504
 
+
+
 # Arquivos para download
+
 O arquivo "UFV_BASE.rar" contém os dados espaciais do mapeamento realizado. Os dados estão em formato shapefile e geodatabase.
+
 O arquivo "xml.rar" contém os metadados de cada dado espacial.
 
 
